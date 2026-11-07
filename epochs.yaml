@@ -1,0 +1,5 @@
+# Журнал эпох доверия: одна открытая эпоха, якорь = BOOTSTRAP_ACTIVATION.
+schema: approval-policy-epochs/v1
+epochs:
+  - epoch: 1
+    anchor: "0416193778b7bd99e789d7f19e63209074e6f40e"
